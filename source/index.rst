@@ -9,8 +9,8 @@
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
-
-    你好
+    
+    life    
 
 Python and PHP and Golang
 ==================
