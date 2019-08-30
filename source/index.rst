@@ -3,20 +3,16 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-欢迎来到我的文档页
-================================
 
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
     
-    life    
+    contents
     begin/index
     base/index
     tool/index
 
-Python and PHP and Golang
-==================
 
 * :ref:`genindex`
 * :ref:`modindex`
